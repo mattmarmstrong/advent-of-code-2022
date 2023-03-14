@@ -1,0 +1,7 @@
+[user]
+    email = matt.armstrong@sasktel.net
+    name = Matthew Armstrong
+
+[core]
+    sshCommand = "ssh -i ~/.ssh/github_key"
+    
